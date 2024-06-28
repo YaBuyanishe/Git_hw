@@ -1,3 +1,7 @@
 First text in second file
 Second row in second file
+<<<<<<< HEAD
 Third row in second file
+=======
+
+>>>>>>> 04e27d7 (add text in second file)
