@@ -1,1 +1,2 @@
 First text in second file
+Second row in second file
