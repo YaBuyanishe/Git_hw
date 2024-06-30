@@ -1,2 +1,3 @@
 First text in first file
 Second text in first file
+Third text in first file
