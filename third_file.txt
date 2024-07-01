@@ -1,1 +1,2 @@
 First text in third file
+Second row in third file
