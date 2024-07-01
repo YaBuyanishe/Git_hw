@@ -1,2 +1,2 @@
-First text in third file
-First_branch changes
+Second row in third file
+
