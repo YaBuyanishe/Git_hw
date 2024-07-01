@@ -1,2 +1,6 @@
 First text in third file
+<<<<<<< HEAD
 First_branch changes
+=======
+Second row in third file
+>>>>>>> second
