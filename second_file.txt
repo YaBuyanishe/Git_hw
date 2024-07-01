@@ -1,4 +1,4 @@
 First text in second file
 Second row in second file
 Third row in second file
-
+Four row in second file
